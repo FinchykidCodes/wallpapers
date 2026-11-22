@@ -36,22 +36,14 @@ Images are for personal use unless stated otherwise. Credit original artists whe
 ## Preview
 
 <!-- GALLERY-START -->
-<img src="wallpapers/black-hole.png" width="300" alt="black-hole">
-<img src="wallpapers/blue-landscape.png" width="300" alt="blue-landscape">
-<img src="wallpapers/bunnies-road.png" width="300" alt="bunnies-road">
-<img src="wallpapers/cabin.png" width="300" alt="cabin">
-<img src="wallpapers/cabin-2.jpg" width="300" alt="cabin-2">
-<img src="wallpapers/cat-vibin.png" width="300" alt="cat-vibin">
-<img src="wallpapers/corals-fish-underwater.jpg" width="300" alt="corals-fish-underwater">
-<img src="wallpapers/dark-forest.jpg" width="300" alt="dark-forest">
-<img src="wallpapers/flying-comets-clouds.jpg" width="300" alt="flying-comets-clouds">
-<img src="wallpapers/horizon.jpg" width="300" alt="horizon">
-<img src="wallpapers/lit-up-sky.png" width="300" alt="lit-up-sky">
-<img src="wallpapers/minimalist-black-hole.png" width="300" alt="minimalist-black-hole">
-<img src="wallpapers/pixel-galaxy.png" width="300" alt="pixel-galaxy">
-<img src="wallpapers/puffy-stars.jpg" width="300" alt="puffy-stars">
-<img src="wallpapers/satellite.png" width="300" alt="satellite">
-<img src="wallpapers/snowflakes.jpg" width="300" alt="snowflakes">
-<img src="wallpapers/snowy-train.jpg" width="300" alt="snowy-train">
+<table>
+<tr><td width="33%"><img src="wallpapers/black-hole.png" width="100%" alt="black-hole"></td><td width="33%"><img src="wallpapers/blue-landscape.png" width="100%" alt="blue-landscape"></td><td width="33%"><img src="wallpapers/bunnies-road.png" width="100%" alt="bunnies-road"></td></tr>
+<tr><td width="33%"><img src="wallpapers/cabin.png" width="100%" alt="cabin"></td><td width="33%"><img src="wallpapers/cabin-2.jpg" width="100%" alt="cabin-2"></td><td width="33%"><img src="wallpapers/cat-vibin.png" width="100%" alt="cat-vibin"></td></tr>
+<tr><td width="33%"><img src="wallpapers/corals-fish-underwater.jpg" width="100%" alt="corals-fish-underwater"></td><td width="33%"><img src="wallpapers/dark-forest.jpg" width="100%" alt="dark-forest"></td><td width="33%"><img src="wallpapers/flying-comets-clouds.jpg" width="100%" alt="flying-comets-clouds"></td></tr>
+<tr><td width="33%"><img src="wallpapers/horizon.jpg" width="100%" alt="horizon"></td><td width="33%"><img src="wallpapers/lit-up-sky.png" width="100%" alt="lit-up-sky"></td><td width="33%"><img src="wallpapers/minimalist-black-hole.png" width="100%" alt="minimalist-black-hole"></td></tr>
+<tr><td width="33%"><img src="wallpapers/pixel-galaxy.png" width="100%" alt="pixel-galaxy"></td><td width="33%"><img src="wallpapers/puffy-stars.jpg" width="100%" alt="puffy-stars"></td><td width="33%"><img src="wallpapers/satellite.png" width="100%" alt="satellite"></td></tr>
+<tr><td width="33%"><img src="wallpapers/snowflakes.jpg" width="100%" alt="snowflakes"></td><td width="33%"><img src="wallpapers/snowy-train.jpg" width="100%" alt="snowy-train"></td></tr>
+</table>
 <!-- GALLERY-END -->
+
 
